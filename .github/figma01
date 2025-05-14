@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/slesy.css">
+</head>
+<body>
+    <!-- //1// -->
+    <header class="continer">
+        <div class="nike">
+            <div class="emall" >
+            <a class="emall" href="rahmatullayev_0203">Call Us: +1 213 974-5898</a>
+            <a class="emall" href="toystore@template.com">Email:toystore@template.com</a>
+            </div>
+            <div class="imgs"> 
+                <img src="/img/IMAGE (9).png" alt="">
+                <img src="/img/facebook-icon.png" alt="">
+                <img src="/img/instagram-icon.png" alt="">
+                <img src="/img/Frame (4).png" alt="">
+                <img src="/img/IMAGE (10).png" alt="">
+            </div>
+        </div>
+    </header>
+    <section class="continer">
+        <div class="texxt">
+            <div class="text">
+                <h3>ToyStore</h3>
+                <p>Catalog</p>
+                <p>Delivery</p>
+                <p>About</p>
+                <p>Contacts</p>
+                
+                        <p class="Cart">Cart</p>
+                    <img class="img1" src="/img/IMAGE (11).png" alt="">
+                    <button class="btn">0</button>
+
+                    
+            </div>
+        </div>
+
+
+    </section>
+    <section class="continer">
+         <div class="imggg">
+            <img class="imgg" src="/img/IMAGE (12).png" alt="">
+            <div class="immgg">
+            <img class="imm" src="/img/Rectangle (3).png" alt="">
+            <p class="textii">Say Hello to ToyStore!</p>
+            <p class="textti">Free Ecommerce <br>Template for Webflow</p>
+            <button class="bten">Open Catalog</button>
+            </div>
+        
+         </div>
+
+
+    </section>
+    <section class="continer">
+        <div class="ttdd">
+            <img class="tedidivv" src="/img/Rectangle (3).svg" alt="">
+            <img class="teddi" src="/img/IMAGE (11).svg" alt="">
+            <p class="textit">Stuffed Animals</p>
+            <button class="btn2">Shop Now</button>
+
+        </div>
+        <div class="woo">
+            <img class="woow" src="/img/Rectangle (6).svg" alt="">
+            <img class="wooimg"  src="/img/IMAGE (12).svg" alt="">
+            <p class="texx">Wooden Toys</p>
+            <button class="btn3">Shop Now</button>
+        </div>
+
+    </section>
+
+    
+    <script src="/app.js"></script>
+</body>
+</html>
